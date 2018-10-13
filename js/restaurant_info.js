@@ -150,7 +150,7 @@ createReviewHTML = (review) => {
   const li = document.createElement('li');
   
   const span = document.createElement('span');
-  span.setAttribute("class", "review-title");
+  span.setAttribute("id", "review-title");
   li.appendChild(span);
 
   const name = document.createElement('p');
