@@ -1,3 +1,5 @@
+// Refference: https://github.com/maevanapcontact/
+
 self.addEventListener('install', function(event) {
 	event.waitUntil(
 		caches.open('restaurant-review-001').then(function(cache) {
