@@ -6,7 +6,7 @@
     letter-spacing: 8px;
   }
   #breadcrumb{
-    position: fixed;
+    position: relativef;
     width: 100%;
   }
   .inside #map-container {
