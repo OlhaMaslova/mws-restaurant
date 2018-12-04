@@ -20,3 +20,9 @@ Added features:
 
 ## Leaflet.js and Mapbox:
 This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). 
+![](https://github.com/OlhaMaslova/mws-restaurant/blob/master/Screen%20Shot%202018-12-03%20at%2010.24.17%20PM.png)
+![](https://github.com/OlhaMaslova/mws-restaurant/blob/master/Screen%20Shot%202018-12-03%20at%2010.25.20%20PM.png)
+![](https://github.com/OlhaMaslova/mws-restaurant/blob/master/Screen%20Shot%202018-12-03%20at%2010.25.38%20PM.png)
+![](https://github.com/OlhaMaslova/mws-restaurant/blob/master/Screen%20Shot%202018-12-03%20at%2010.25.56%20PM.png)
+![](https://github.com/OlhaMaslova/mws-restaurant/blob/master/Screen%20Shot%202018-12-03%20at%2010.26.07%20PM.png)
+![](https://github.com/OlhaMaslova/mws-restaurant/blob/master/Screen%20Shot%202018-12-03%20at%2010.26.53%20PM.png)
