@@ -4,7 +4,8 @@
 
 ## Project Overview: Stage 1
 
-**Restaurant Reviews** projects
+**Restaurant Reviews**
+
 I converted a static webpage to a mobile-ready web application. 
 Added features:
   - accessibility;
